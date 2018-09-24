@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536891207 source:/home/ahn/pub/boj/1932/main.cpp
+	<iostream>
+	<cstdio>
+
